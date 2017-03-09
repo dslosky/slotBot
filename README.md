@@ -11,6 +11,6 @@ After initializing the slots with an integer, you'll be able to type "help" for 
 ## If I had more time I would:
     * Implement printing methods
     * Add error printing methods to make it more obvious when a user has input a bad command 
-    * handle software failure by catching excpetions
+    * Handle software failure by catching excpetions
     * Create tests for each class method
     * Run through pyLint and fix PEP-8 violations
